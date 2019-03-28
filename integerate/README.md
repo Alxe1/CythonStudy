@@ -1,1 +1,1 @@
-# Integrate example based on Cython
+# Integration example based on Cython
